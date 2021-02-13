@@ -1,0 +1,4 @@
+E:\SAN zal\register108200\register108200\obj\Release\netcoreapp3.1\register108200.csprojAssemblyReference.cache
+E:\SAN zal\register108200\register108200\obj\Release\netcoreapp3.1\register108200.AssemblyInfoInputs.cache
+E:\SAN zal\register108200\register108200\obj\Release\netcoreapp3.1\register108200.AssemblyInfo.cs
+E:\SAN zal\register108200\register108200\obj\Release\netcoreapp3.1\register108200.csproj.CoreCompileInputs.cache

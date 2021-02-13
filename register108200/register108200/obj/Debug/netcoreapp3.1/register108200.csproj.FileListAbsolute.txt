@@ -1,0 +1,13 @@
+E:\SAN zal\register108200\register108200\obj\Debug\netcoreapp3.1\register108200.csprojAssemblyReference.cache
+E:\SAN zal\register108200\register108200\obj\Debug\netcoreapp3.1\register108200.AssemblyInfoInputs.cache
+E:\SAN zal\register108200\register108200\obj\Debug\netcoreapp3.1\register108200.AssemblyInfo.cs
+E:\SAN zal\register108200\register108200\obj\Debug\netcoreapp3.1\register108200.csproj.CoreCompileInputs.cache
+E:\SAN zal\register108200\register108200\bin\Debug\netcoreapp3.1\register108200.exe
+E:\SAN zal\register108200\register108200\bin\Debug\netcoreapp3.1\register108200.deps.json
+E:\SAN zal\register108200\register108200\bin\Debug\netcoreapp3.1\register108200.runtimeconfig.json
+E:\SAN zal\register108200\register108200\bin\Debug\netcoreapp3.1\register108200.runtimeconfig.dev.json
+E:\SAN zal\register108200\register108200\bin\Debug\netcoreapp3.1\register108200.dll
+E:\SAN zal\register108200\register108200\bin\Debug\netcoreapp3.1\register108200.pdb
+E:\SAN zal\register108200\register108200\obj\Debug\netcoreapp3.1\register108200.dll
+E:\SAN zal\register108200\register108200\obj\Debug\netcoreapp3.1\register108200.pdb
+E:\SAN zal\register108200\register108200\obj\Debug\netcoreapp3.1\register108200.genruntimeconfig.cache

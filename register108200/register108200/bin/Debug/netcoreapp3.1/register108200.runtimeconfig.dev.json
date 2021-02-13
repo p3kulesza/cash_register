@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\biped\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\biped\\.nuget\\packages"
+    ]
+  }
+}
